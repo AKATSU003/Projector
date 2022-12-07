@@ -1,0 +1,51 @@
+header,footer{
+    background-color: rgb(255, 205, 205);
+}
+aside{
+    background-color: antiquewhite;
+
+}
+
+#article-1{
+    background-color: aquamarine;
+}
+
+#article-2{
+    background-color: blue;
+}
+
+.class01{
+    background-color: brown;
+}
+
+.class02{
+    background-color: brown;
+}
+
+h1[title="head"]{
+    font-size: 50px;
+    color: blue;
+}
+
+header>a:hover[href]{
+    background-color: green;
+}
+
+table{
+    background-color: antiquewhite;
+}
+td{
+    border: solid green;
+}
+
+th{
+    border:solid red;
+}
+
+tr:first-child{
+    background-color: orange;
+}
+
+tr:last-child{
+    background-color: blue;
+}
